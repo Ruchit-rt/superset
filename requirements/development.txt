@@ -1104,7 +1104,7 @@ websocket-client==1.8.0
     #   selenium
 websockets==15.0.1
     # via fastmcp
-werkzeug==2.1.2
+werkzeug==3.0.3
     # via
     #   -c requirements/base-constraint.txt
     #   flask
