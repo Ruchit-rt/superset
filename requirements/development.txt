@@ -112,7 +112,7 @@ celery==5.5.2
     # via
     #   -c requirements/base-constraint.txt
     #   apache-superset
-certifi==2026.5.20
+certifi==2022.12.7
     # via
     #   -c requirements/base-constraint.txt
     #   httpcore
@@ -422,7 +422,7 @@ humanize==4.12.3
     #   apache-superset
 identify==2.5.36
     # via pre-commit
-idna==3.15
+idna==2.8
     # via
     #   -c requirements/base-constraint.txt
     #   anyio
@@ -848,7 +848,7 @@ pyxlsb==1.0.10
     # via
     #   -c requirements/base-constraint.txt
     #   pandas
-pyyaml==6.0.2
+pyyaml==5.3.1
     # via
     #   -c requirements/base-constraint.txt
     #   apache-superset
@@ -868,7 +868,7 @@ referencing==0.36.2
     #   jsonschema-specifications
 regex==2026.4.4
     # via tiktoken
-requests==2.33.0
+requests==2.19.1
     # via
     #   -c requirements/base-constraint.txt
     #   docker
@@ -1067,7 +1067,7 @@ url-normalize==2.2.1
     # via
     #   -c requirements/base-constraint.txt
     #   requests-cache
-urllib3==2.7.0
+urllib3==1.25.8
     # via
     #   -c requirements/base-constraint.txt
     #   botocore
