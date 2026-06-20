@@ -11,3 +11,4 @@
 | `certifi` | `2022.12.7` | CVE-2023-37920 | Bundles compromised e-Tugra root cert |
 | `urllib3` | `1.25.8` | CVE-2020-26137 | CRLF injection via request method |
 | `idna` | `2.8` | CVE-2024-3651 | DoS via resource consumption in idna.encode |
+| `werkzeug` | `2.1.2` | CVE-2024-34069 | Debugger RCE; only fixed in 3.x (major bump) |
