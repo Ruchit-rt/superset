@@ -848,7 +848,7 @@ pyxlsb==1.0.10
     # via
     #   -c requirements/base-constraint.txt
     #   pandas
-pyyaml==5.3.1
+pyyaml==5.4
     # via
     #   -c requirements/base-constraint.txt
     #   apache-superset
